@@ -1,5 +1,6 @@
 # new-website
-Nueva web estática
+***¿Qué es ProyectoBitcoin?***
+
 Proyecto Bitcoin es una iniciativa de dos entusiastas de las libertades individuales, creyentes de que, por sus propiedades, la primera criptomoneda no es menos que un derecho humano. Por lo tanto, todas las personas, sin distinción de raza, origen, status legal, idioma o país donde viven, deberían poder usarla de forma segura y sin restricciones.
 
 Esto solo será posible si las personas tiene acceso a información precisa y educación de calidad sobre Bitcoin. Creemos que esta es la vía más efectiva para descubrir los beneficios reales de este sistema de tecnologías, y superar las narrativas antagonistas, en su mayoría falsas o exageradas.
